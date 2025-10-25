@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="HICP Dashboard — France", page_icon="💶", layout="wide")
 
-st.title("💶 HICP Dashboard — Simple Price Story (France)")
+st.title("💶 HICP Dashboard — Simple Price Story (France) - By Nathan Germany")
 st.caption("Scope: 🇫🇷 France · Monthly · Not seasonally adjusted (HICP/IPCH) · One national series")
 
 st.image("data/maxresdefault.jpg", caption="Stonks", use_container_width=True)
