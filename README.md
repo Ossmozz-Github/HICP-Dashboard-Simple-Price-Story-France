@@ -26,3 +26,8 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 streamlit run app.py
+````
+
+## Link of the dataset
+    
+https://www.data.gouv.fr/datasets/indice-des-prix-a-la-consommation-harmonises-mensuels/

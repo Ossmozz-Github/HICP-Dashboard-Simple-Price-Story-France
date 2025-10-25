@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="068dce58-4beb-487d-a5dd-f56b03c8b8d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/StreamlitApp25_20220677_GERMANY_BIA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/0_Data_Quality.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/1_Introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/2_Overview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/3_Categories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/4_Volatility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/5_Seasonality.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/6_Conclusions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/io.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/prep.py" afterDir="false" />
+    <list default="true" id="068dce58-4beb-487d-a5dd-f56b03c8b8d5" name="Changes" comment="Finito">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ossmozz-Github/HICP-Dashboard-Simple-Price-Story-France.git",
+    "accountId": "4bf017a7-7f2b-4eb5-b2cd-e15fcc14a4e0"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -79,6 +68,27 @@
       <option name="presentableId" value="Default" />
       <updated>1761404658325</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finito">
+      <option name="closed" value="true" />
+      <created>1761421015194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761421015194</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finito">
+      <option name="closed" value="true" />
+      <created>1761421168454</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761421168454</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finito" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finito" />
   </component>
 </project>
